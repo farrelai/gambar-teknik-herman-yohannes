@@ -1,11 +1,16 @@
-# AutoCAD temporary files
+# AutoCAD temporary & drawing files
 *.bak
 *.dwl
 *.dwl2
 *.log
+*.dwg
 
-# Microsoft Office temporary files
+# Microsoft Office files
 ~$*
+*.docx
+
+# Root raw PDFs (clean files are already in docs/)
+/*.pdf
 
 # OS generated files
 Thumbs.db
