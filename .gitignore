@@ -1,0 +1,14 @@
+# AutoCAD temporary files
+*.bak
+*.dwl
+*.dwl2
+*.log
+
+# Microsoft Office temporary files
+~$*
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
