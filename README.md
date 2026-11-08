@@ -1,24 +1,9 @@
 # Perancangan Desain Instalasi Listrik Gedung Herman Yohannes (Lantai 1 & 2)
 
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-Drawing-red?logo=autodesk)
-![Course](https://img.shields.io/badge/Matkul-Praktikum%20Gambar%20Teknik%20I-blue)
-![Institution](https://img.shields.io/badge/UGM-Teknologi%20Rekayasa%20Elektro%202024-yellow)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 Repository ini berisi dokumentasi dan berkas hasil rancangan teknis instalasi listrik (penerangan dan tenaga) untuk **Gedung Herman Yohannes** (Lantai 1 dan Lantai 2). Proyek ini disusun sebagai pemenuhan tugas akhir mata kuliah **Praktikum Gambar Teknik I**, Semester 1, Program Studi Teknologi Rekayasa Elektro (TRE), Departemen Teknik Elektro dan Informatika, Sekolah Vokasi, Universitas Gadjah Mada (Angkatan 2024).
-
----
-
-## Informasi Akademik
-
-* **Mata Kuliah:** Praktikum Gambar Teknik I (Semester 1)
-* **Program Studi:** Sarjana Terapan Teknologi Rekayasa Elektro (TRE)
-* **Institusi:** Sekolah Vokasi, Universitas Gadjah Mada
-* **Angkatan:** 2024 (Kelas RE1A2)
-* **Dosen Pengampu:** Muhammad Rifqi Al Fauzan, S.Si., M.Si.
-* **Penyusun:**
-  1. Mirza Dhiyaulhaq
-  2. Farrel Amaris Ipaenen (24/538573/SV/24512)
 
 ---
 
