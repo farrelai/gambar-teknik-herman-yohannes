@@ -2,7 +2,6 @@
 # Electrical Installation Design of Herman Yohannes Building (1st & 2nd Floors)
 
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-Drawing-red?logo=autodesk)
-![Status](https://img.shields.io/badge/Status-Completed-success)
 
 This repository contains the technical documentation and design files for the electrical installation (lighting and power systems) of the **Herman Yohannes Building**, covering the 1st and 2nd floors. This project was developed as part of the final assignment for **Technical Drawing Practicum I**, Semester 1, Electrical Engineering Technology Study Program, Department of Electrical Engineering and Informatics, Vocational College, Universitas Gadjah Mada (Class of 2024).
 
